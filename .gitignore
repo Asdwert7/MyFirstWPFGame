@@ -1,2 +1,10 @@
-docs/*
+.vs/
+StrykerOutput/
+TestResults/
+bin/
 bin/*
+docs/*
+obj/
+cov/*
+logs/*
+backup/

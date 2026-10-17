@@ -1,0 +1,7 @@
+{
+  "stryker-config": {
+    "project": "GameCore.csproj",
+    "reporters": [ "html", "progress", "cleartext" ],
+    "thresholds": { "high": 90, "low": 70, "break": 0 }
+  }
+}
